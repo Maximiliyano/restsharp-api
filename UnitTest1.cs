@@ -9,6 +9,7 @@ namespace RestSharpDemo
         [TestMethod]
         public void TestMethod1()
         {
+
         }
     }
 }
