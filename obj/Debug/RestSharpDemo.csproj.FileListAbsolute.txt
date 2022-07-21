@@ -34,3 +34,9 @@ D:\Local\C#\restsharp-api\obj\Debug\RestSharpDemo.csproj.CoreCompileInputs.cache
 D:\Local\C#\restsharp-api\obj\Debug\RestSharpDemo.csproj.CopyComplete
 D:\Local\C#\restsharp-api\obj\Debug\RestSharpDemo.dll
 D:\Local\C#\restsharp-api\obj\Debug\RestSharpDemo.pdb
+D:\Local\C#\restsharp-api\bin\Debug\JsonApiSerializer.dll
+D:\Local\C#\restsharp-api\bin\Debug\Newtonsoft.Json.dll
+D:\Local\C#\restsharp-api\bin\Debug\nunit.framework.dll
+D:\Local\C#\restsharp-api\bin\Debug\Newtonsoft.Json.pdb
+D:\Local\C#\restsharp-api\bin\Debug\Newtonsoft.Json.xml
+D:\Local\C#\restsharp-api\bin\Debug\nunit.framework.xml
