@@ -1,15 +1,28 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=782e62af_002D64c4_002D4162_002D8e3d_002De6fec769c109/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestMethod1 #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=265e5a50_002Df02e_002D4ad4_002Db76e_002Dccf7dc4efe7c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="PostWithAnonymousBody" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::544406DC-54CB-4CD4-A7BF-1867738198FF::.NETFramework,Version=v4.8::RestSharpDemo.UnitTest1.TestMethod1&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::544406DC-54CB-4CD4-A7BF-1867738198FF::.NETFramework,Version=v4.8::RestSharpDemo.UnitTest1.PostWithAnonymousBody&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::544406DC-54CB-4CD4-A7BF-1867738198FF::.NETFramework,Version=v4.8::RestSharpDemo.UnitTest1.TestMethod1&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::544406DC-54CB-4CD4-A7BF-1867738198FF::.NETFramework,Version=v4.8::RestSharpDemo.UnitTest1.PostWithTypeClassBody&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=783c03dc_002D756d_002D4472_002D8f32_002D3801e50591dc/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="TestMethod1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=782e62af_002D64c4_002D4162_002D8e3d_002De6fec769c109/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="TestMethod1 #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::544406DC-54CB-4CD4-A7BF-1867738198FF::.NETFramework,Version=v4.8::RestSharpDemo.UnitTest1.TestMethod1&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::544406DC-54CB-4CD4-A7BF-1867738198FF::.NETFramework,Version=v4.8::RestSharpDemo.UnitTest1.PostWithAnonymousBody&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::544406DC-54CB-4CD4-A7BF-1867738198FF::.NETFramework,Version=v4.8::RestSharpDemo.UnitTest1.PostWithTypeClassBody&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::544406DC-54CB-4CD4-A7BF-1867738198FF::.NETFramework,Version=v4.8::RestSharpDemo.UnitTest1.PostWithAsync&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=783c03dc_002D756d_002D4472_002D8f32_002D3801e50591dc/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestMethod1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;NUnit3x::544406DC-54CB-4CD4-A7BF-1867738198FF::.NETFramework,Version=v4.8::RestSharpDemo.UnitTest1.PostWithAnonymousBody&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::544406DC-54CB-4CD4-A7BF-1867738198FF::.NETFramework,Version=v4.8::RestSharpDemo.UnitTest1.TestMethod1&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::544406DC-54CB-4CD4-A7BF-1867738198FF::.NETFramework,Version=v4.8::RestSharpDemo.UnitTest1.PostWithTypeClassBody&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ad6cdce9_002Df172_002D4d55_002D98db_002D2aabe64b3dd1/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestMethod1 #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::544406DC-54CB-4CD4-A7BF-1867738198FF::.NETFramework,Version=v4.8::RestSharpDemo.UnitTest1.TestMethod1&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
