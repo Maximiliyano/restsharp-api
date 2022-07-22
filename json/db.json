@@ -1,9 +1,25 @@
 {
-"posts": [
-{ "id": 1, "title": "json-server", "author": "Maximiliyano" }
-],
-"comments": [
-{ "id": 1, "body": "some comment", "postId": 1 }
-],
-"profile": { "name": "Maximiliyano" }
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "Maximiliyano"
+    },
+    {
+      "id": "4",
+      "title": "RestSharp",
+      "author": "Automation"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "Rafaello",
+    "postId": "1"
+  }
 }
